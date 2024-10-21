@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Toilet](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZykuveJNzSv8YGQ_pSuOV18UX0cgbvpYDOw&s)
 
 
 ## MathJax
