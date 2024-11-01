@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
  - {title: Mail, icon: Envelope, url: "mailto:andre.barroca@kreisliga.it"}
  - {title: Github, icon: github, url: "https://github.com/KreisLiga"}
  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/andre-barroca-641193131"}
- - {title: Twitter, icon: twitter, url: "https://twitter.com/KreisLiga53"}
+ - {title: Twitter, icon: twitter, url: "https://x.com/LigaKreis"}
  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 
